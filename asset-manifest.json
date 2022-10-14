@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imtahan-deploy/static/css/main.eb6d8a55.css",
+    "main.js": "/imtahan-deploy/static/js/main.f878d96c.js",
+    "index.html": "/imtahan-deploy/index.html",
+    "main.eb6d8a55.css.map": "/imtahan-deploy/static/css/main.eb6d8a55.css.map",
+    "main.f878d96c.js.map": "/imtahan-deploy/static/js/main.f878d96c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb6d8a55.css",
+    "static/js/main.f878d96c.js"
+  ]
+}
